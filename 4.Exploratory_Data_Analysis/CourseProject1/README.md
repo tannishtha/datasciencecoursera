@@ -37,16 +37,16 @@ To that end, keep the following things in mind:
 
 DO
 
-1.Review the source code.
-2. Keep an open mind and focus on the positive.≤/li>
+1. Review the source code.
+2. Keep an open mind and focus on the positive.
 3. When in doubt, err on the side of giving too many points, rather than giving too few.
 4. Ask yourself if a plot might answer a question for the person who created it.
 5. Remember that not everyone has the same statistical background and knowledge.
 
 DON'T:
 
-1.Deduct just because you disagree with someone's statistical methods.
-2.Deduct just because you disagree with someone's plotting methods.
+1. Deduct just because you disagree with someone's statistical methods.
+2. Deduct just because you disagree with someone's plotting methods.
 3. Deduct based on aesthetics.
 
 ### Loading the data
